@@ -3,7 +3,7 @@ Quotes Cloud
 
 ### API  
 
-http://multimediacloud.elasticbeanstalk.com/api/quotes
+http://multimediaapi.elasticbeanstalk.com/quotes
 
 ### Web
 
