@@ -5,7 +5,4 @@ Quotes Cloud
 
 http://multimediaapi.elasticbeanstalk.com/quotes
 
-### Web
-
-http://multimediacloud.elasticbeanstalk.com/quotes
 
