@@ -7,7 +7,8 @@ Quotes Cloud Open API
 - 长期运行  
 - 语录库持续更新  
 - AWS Cloud Native
-- Open Source
+- Open Source Code  
+- 语录库开源  
 
 ### API  
 - URL: http://multimediaapi.elasticbeanstalk.com/quotes  
