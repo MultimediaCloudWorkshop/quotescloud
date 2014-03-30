@@ -1,5 +1,5 @@
 # 语录云 Quotes Cloud
-Quotes Cloud Open API
+Open API, Open Code, Open Quote  
 
 ### 特点
 - Open API
