@@ -10,7 +10,7 @@ Open Cloud / Open API / Open Source / Open Quote
 - AWS Cloud Native
 
 ### API  
-- GET http://multimediaapi.elasticbeanstalk.com/quotes  
+- GET http://multimediaapi.elasticbeanstalk.com/quote/random  
 - 随机返回一条JSON格式的语录信息。
 
 ### 价格  
